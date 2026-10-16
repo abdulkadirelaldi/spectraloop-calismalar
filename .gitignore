@@ -1,0 +1,17 @@
+# STM32CubeIDE / derleme çıktıları
+Debug/
+Release/
+build/
+*.o
+*.d
+*.su
+*.elf
+*.map
+*.list
+*.bin
+*.hex
+.metadata/
+*.launch
+# İşletim sistemi
+.DS_Store
+Thumbs.db
